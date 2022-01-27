@@ -57,6 +57,6 @@
   "dependencies": {
     "@tweenjs/tween.js": "^18.5.0",
     "core-js": "^3.0.1",
-    "three": "^0.110.0"
+    "three": "^0.137.0"
   }
 }
